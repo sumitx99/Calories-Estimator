@@ -63,7 +63,7 @@ streamlit run app.py
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 
-## License
+## 📜License
 
 [This project is licensed under the MIT License. See the `LICENSE` file for more details.](https://github.com/sumitx99/Calories-Estimator/blob/main/LICENSE)
 
